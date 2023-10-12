@@ -33,7 +33,6 @@ int main()
                 cout << i << ',' << n-i << ' ';
             cout << n;
         
-
         }
         if (n%4==0)
         {
